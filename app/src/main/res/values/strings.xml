@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MacyAssessment</string>
+
+    <string name="button_start">Start</string>
+    <string name="button_restart">Restart</string>
+    <string name="button_pause">Pause</string>
+    <string name="button_share">Share</string>
+
+</resources>
